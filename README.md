@@ -317,8 +317,3 @@ const paginatedData = frequentData.slice(
 - **UI Components:** shadcn/ui
 - **Authentication:** Firebase Auth
 - **State Management:** React Context + Hooks
-
-## 📝 License
-
-This project is for educational/assignment purposes.# India-Data-Hub---Assignment
-# India-Data-Hub---Assignment
