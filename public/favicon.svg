@@ -1,0 +1,10 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="32" height="32" rx="6" fill="#1a1a5e"/>
+  <!-- Stylized India map outline -->
+  <path d="M16 4 L20 6 L22 10 L19 15 L21 20 L18 26 L14 28 L10 26 L7 20 L10 14 L8 10 L12 6 Z" 
+        fill="#f7931e"/>
+  <!-- Data points -->
+  <circle cx="14" cy="10" r="2" fill="white"/>
+  <circle cx="16" cy="16" r="1.5" fill="white"/>
+  <circle cx="12" cy="20" r="1.5" fill="white"/>
+</svg>
