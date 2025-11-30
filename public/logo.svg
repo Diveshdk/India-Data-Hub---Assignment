@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 50">
+  <!-- Background -->
+  <rect width="240" height="50" fill="#1a1a5e"/>
+  
+  <!-- India map icon stylized -->
+  <g transform="translate(8, 5)">
+    <path d="M15 5 L20 8 L22 15 L18 22 L20 28 L17 35 L12 38 L8 35 L5 28 L8 20 L6 15 L10 8 Z" 
+          fill="#f7931e" 
+          stroke="#ffffff" 
+          stroke-width="0.5"/>
+    <!-- Data points on map -->
+    <circle cx="12" cy="15" r="2" fill="#ffffff"/>
+    <circle cx="15" cy="22" r="1.5" fill="#ffffff"/>
+    <circle cx="10" cy="28" r="1.5" fill="#ffffff"/>
+  </g>
+  
+  <!-- Text: India -->
+  <text x="38" y="32" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#ffffff">
+    India
+  </text>
+  
+  <!-- Text: Data -->
+  <text x="82" y="32" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#f7931e">
+    Data
+  </text>
+  
+  <!-- Text: Hub -->
+  <text x="124" y="32" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#ffffff">
+    Hub
+  </text>
+  
+  <!-- Decorative data bars -->
+  <g transform="translate(165, 12)">
+    <rect x="0" y="8" width="4" height="18" fill="#f7931e" rx="1"/>
+    <rect x="7" y="4" width="4" height="22" fill="#ffffff" rx="1"/>
+    <rect x="14" y="10" width="4" height="16" fill="#f7931e" rx="1"/>
+    <rect x="21" y="0" width="4" height="26" fill="#ffffff" rx="1"/>
+    <rect x="28" y="6" width="4" height="20" fill="#f7931e" rx="1"/>
+  </g>
+</svg>

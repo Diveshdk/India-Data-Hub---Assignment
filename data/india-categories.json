@@ -1,0 +1,181 @@
+{
+  "categories": {
+    "Agriculture": {
+      "Acreage": {},
+      "Inputs": {},
+      "Livestock": {},
+      "Production": {},
+      "Stocks": {},
+      "Value of Output": {},
+      "Yield": {}
+    },
+    "Banking": {
+      "Advances": {},
+      "Bank Accounts": {},
+      "Bank Assets": {},
+      "Bank Deposits": {},
+      "Bank Performance": {},
+      "Borrower Accounts": {},
+      "Cooperative Banks": {},
+      "Deposits": {},
+      "Liabilities": {},
+      "Network": {}
+    },
+    "Business, Consumer Surveys": {
+      "Bank Lending Survey": {},
+      "Consumer Confidence Survey": {},
+      "Industrial Outlook Survey": {},
+      "Inflation Expectations Survey": {},
+      "OBICUS": {},
+      "Professional Forecasters Survey": {
+        "Annual": {},
+        "Quarterly": {}
+      }
+    },
+    "Capital Markets": {
+      "Bond Markets": {},
+      "Capital Raising": {},
+      "DII": {},
+      "Equity Markets": {},
+      "FPI": {
+        "AUM": {},
+        "Flows": {}
+      },
+      "Money Markets": {}
+    },
+    "Climate": {
+      "Rainfall": {},
+      "Reservoir Level": {}
+    },
+    "Commodity Prices": {
+      "Domestic Prices": {
+        "Coal Prices": {},
+        "Petroleum Products": {},
+        "Retail Food Prices": {},
+        "Retail Fuel Prices": {}
+      },
+      "International Prices": {
+        "Base Metals": {},
+        "Commodity Indices": {},
+        "Energy": {},
+        "Fertiliser": {},
+        "Precious Metals": {},
+        "Soft Commodities": {}
+      },
+      "MSP": {},
+      "Mandi Transactions": {
+        "Arrivals": {},
+        "Prices": {}
+      }
+    },
+    "Corporate Sector": {
+      "Registrations": {}
+    },
+    "Energy": {
+      "Coal": {},
+      "Electricity": {},
+      "Petroleum": {},
+      "Power": {}
+    },
+    "External Sector": {
+      "Balance of Payments": {
+        "New Classification (BPM6)": {},
+        "Old BoP Classification": {},
+        "Old Classification (% GDP)": {}
+      },
+      "External Debt": {},
+      "FDI": {},
+      "FX Reserves": {},
+      "International Investment Position": {},
+      "Invisibles": {},
+      "NRI Deposits": {},
+      "Portfolio Flows": {},
+      "Remittances": {}
+    },
+    "FX Market": {
+      "Effective FX Rates": {},
+      "FX Intervention": {},
+      "FX Rates": {},
+      "Forward Premia": {}
+    },
+    "Foreign Trade": {
+      "Merchandise Trade": {},
+      "Services Trade": {}
+    },
+    "Government Finances": {
+      "Central Finances": {
+        "Annual - Actuals": {},
+        "Annual - Blended": {},
+        "Annual - Blended (% of GDP)": {},
+        "Annual - Budget Estimate": {},
+        "Annual - Revised Estimate": {},
+        "Monthly Finances": {}
+      },
+      "Combined Finances": {},
+      "Direct Taxes": {},
+      "GST": {},
+      "Government Securities": {
+        "Central Securities": {},
+        "State Securities": {}
+      },
+      "Small Savings": {
+        "Flows": {},
+        "Interest Rates": {}
+      },
+      "State Finances": {}
+    },
+    "Industry": {
+      "Industrial Production": {},
+      "Manufacturing": {}
+    },
+    "Inflation": {
+      "CPI": {},
+      "WPI": {}
+    },
+    "Interest Rates": {
+      "Bank Rates": {},
+      "Deposit Rates": {},
+      "Lending Rates": {},
+      "Policy Rates": {}
+    },
+    "Labour Market": {
+      "Employment": {},
+      "Wages": {}
+    },
+    "Monetary Aggregates": {
+      "Money Supply": {},
+      "Reserve Money": {}
+    },
+    "National Accounts": {
+      "GDP": {},
+      "GVA": {},
+      "Savings & Investment": {}
+    },
+    "Payments": {
+      "Digital Payments": {},
+      "Paper Clearing": {},
+      "Retail Payments": {}
+    },
+    "Population": {},
+    "Real Estate": {
+      "Housing Prices": {},
+      "RESIDEX": {}
+    },
+    "Services": {
+      "Aviation": {},
+      "Hospitality": {},
+      "Telecom": {},
+      "Tourism": {}
+    },
+    "Social Sector": {
+      "Education": {},
+      "Health": {},
+      "Poverty": {}
+    },
+    "Transport": {
+      "Railways": {},
+      "Road Transport": {},
+      "Shipping": {}
+    }
+  }
+}

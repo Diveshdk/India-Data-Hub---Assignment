@@ -1,0 +1,277 @@
+{
+  "categories": {
+    "Africa": {
+      "Egypt": {
+        "External Sector": {},
+        "External Trade": {},
+        "Government Finance": {},
+        "Inflation": {},
+        "Labour Market": {},
+        "National Accounts": {},
+        "Social Sector": {}
+      },
+      "Ethiopia": {
+        "External Sector": {},
+        "External Trade": {},
+        "Government Finance": {},
+        "Inflation": {},
+        "National Accounts": {},
+        "Social Sector": {}
+      },
+      "Ghana": {
+        "External Sector": {},
+        "External Trade": {},
+        "Government Finance": {},
+        "Inflation": {},
+        "National Accounts": {},
+        "Social Sector": {}
+      },
+      "Kenya": {
+        "External Sector": {},
+        "External Trade": {},
+        "Government Finance": {},
+        "Inflation": {},
+        "National Accounts": {},
+        "Social Sector": {}
+      },
+      "Nigeria": {
+        "External Sector": {},
+        "External Trade": {},
+        "Government Finance": {},
+        "Inflation": {},
+        "Labour Market": {},
+        "National Accounts": {},
+        "Social Sector": {}
+      },
+      "South Africa": {
+        "External Sector": {},
+        "External Trade": {},
+        "Government Finance": {},
+        "Inflation": {},
+        "Labour Market": {},
+        "National Accounts": {},
+        "Social Sector": {}
+      }
+    },
+    "Americas": {
+      "Argentina": {
+        "External Sector": {},
+        "External Trade": {},
+        "Government Finance": {},
+        "Inflation": {},
+        "Labour Market": {},
+        "National Accounts": {},
+        "Social Sector": {}
+      },
+      "Brazil": {
+        "External Sector": {},
+        "External Trade": {},
+        "Government Finance": {},
+        "Inflation": {},
+        "Labour Market": {},
+        "National Accounts": {},
+        "Social Sector": {}
+      },
+      "Canada": {
+        "External Sector": {},
+        "External Trade": {},
+        "Government Finance": {},
+        "Inflation": {},
+        "Labour Market": {},
+        "National Accounts": {},
+        "Social Sector": {}
+      },
+      "Mexico": {
+        "External Sector": {},
+        "External Trade": {},
+        "Government Finance": {},
+        "Inflation": {},
+        "Labour Market": {},
+        "National Accounts": {},
+        "Social Sector": {}
+      },
+      "United States": {
+        "External Sector": {},
+        "External Trade": {},
+        "Government Finance": {},
+        "Inflation": {},
+        "Labour Market": {},
+        "National Accounts": {},
+        "Social Sector": {}
+      }
+    },
+    "Asia": {
+      "Bangladesh": {
+        "External Sector": {},
+        "External Trade": {},
+        "Government Finance": {},
+        "Inflation": {},
+        "National Accounts": {},
+        "Social Sector": {}
+      },
+      "China": {
+        "External Sector": {},
+        "External Trade": {},
+        "Government Finance": {},
+        "Inflation": {},
+        "Labour Market": {},
+        "National Accounts": {},
+        "Social Sector": {}
+      },
+      "Indonesia": {
+        "External Sector": {},
+        "External Trade": {},
+        "Government Finance": {},
+        "Inflation": {},
+        "Labour Market": {},
+        "National Accounts": {},
+        "Social Sector": {}
+      },
+      "Japan": {
+        "External Sector": {},
+        "External Trade": {},
+        "Government Finance": {},
+        "Inflation": {},
+        "Labour Market": {},
+        "National Accounts": {},
+        "Social Sector": {}
+      },
+      "Malaysia": {
+        "External Sector": {},
+        "External Trade": {},
+        "Government Finance": {},
+        "Inflation": {},
+        "Labour Market": {},
+        "National Accounts": {},
+        "Social Sector": {}
+      },
+      "Pakistan": {
+        "External Sector": {},
+        "External Trade": {},
+        "Government Finance": {},
+        "Inflation": {},
+        "National Accounts": {},
+        "Social Sector": {}
+      },
+      "Singapore": {
+        "External Sector": {},
+        "External Trade": {},
+        "Government Finance": {},
+        "Inflation": {},
+        "Labour Market": {},
+        "National Accounts": {},
+        "Social Sector": {}
+      },
+      "South Korea": {
+        "External Sector": {},
+        "External Trade": {},
+        "Government Finance": {},
+        "Inflation": {},
+        "Labour Market": {},
+        "National Accounts": {},
+        "Social Sector": {}
+      },
+      "Sri Lanka": {
+        "External Sector": {},
+        "External Trade": {},
+        "Government Finance": {},
+        "Inflation": {},
+        "National Accounts": {},
+        "Social Sector": {}
+      },
+      "Thailand": {
+        "External Sector": {},
+        "External Trade": {},
+        "Government Finance": {},
+        "Inflation": {},
+        "Labour Market": {},
+        "National Accounts": {},
+        "Social Sector": {}
+      },
+      "Vietnam": {
+        "External Sector": {},
+        "External Trade": {},
+        "Government Finance": {},
+        "Inflation": {},
+        "National Accounts": {},
+        "Social Sector": {}
+      }
+    },
+    "Europe": {
+      "France": {
+        "External Sector": {},
+        "External Trade": {},
+        "Government Finance": {},
+        "Inflation": {},
+        "Labour Market": {},
+        "National Accounts": {},
+        "Social Sector": {}
+      },
+      "Germany": {
+        "External Sector": {},
+        "External Trade": {},
+        "Government Finance": {},
+        "Inflation": {},
+        "Labour Market": {},
+        "National Accounts": {},
+        "Social Sector": {}
+      },
+      "Italy": {
+        "External Sector": {},
+        "External Trade": {},
+        "Government Finance": {},
+        "Inflation": {},
+        "Labour Market": {},
+        "National Accounts": {},
+        "Social Sector": {}
+      },
+      "Russia": {
+        "External Sector": {},
+        "External Trade": {},
+        "Government Finance": {},
+        "Inflation": {},
+        "Labour Market": {},
+        "National Accounts": {},
+        "Social Sector": {}
+      },
+      "Spain": {
+        "External Sector": {},
+        "External Trade": {},
+        "Government Finance": {},
+        "Inflation": {},
+        "Labour Market": {},
+        "National Accounts": {},
+        "Social Sector": {}
+      },
+      "United Kingdom": {
+        "External Sector": {},
+        "External Trade": {},
+        "Government Finance": {},
+        "Inflation": {},
+        "Labour Market": {},
+        "National Accounts": {},
+        "Social Sector": {}
+      }
+    },
+    "Oceania": {
+      "Australia": {
+        "External Sector": {},
+        "External Trade": {},
+        "Government Finance": {},
+        "Inflation": {},
+        "Labour Market": {},
+        "National Accounts": {},
+        "Social Sector": {}
+      },
+      "New Zealand": {
+        "External Sector": {},
+        "External Trade": {},
+        "Government Finance": {},
+        "Inflation": {},
+        "Labour Market": {},
+        "National Accounts": {},
+        "Social Sector": {}
+      }
+    }
+  }
+}
